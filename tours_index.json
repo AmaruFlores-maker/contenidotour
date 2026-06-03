@@ -1,0 +1,181 @@
+{
+  "tours": [
+    {
+      "id": "Casa_001",
+      "nombre": "Casa en Barrio Norte",
+      "thumbnail": "Casa_001",
+      "mapa_archivo": "Mapa_Casa_001",
+      "puntos": [
+        {
+          "nombre_nodo": "Living",
+          "archivo_360": "Casa_001/Living",
+          "x": -150,
+          "y": 50,
+          "popups": [
+            { "titulo": "Pisos", "info": "Porcelanato pulido de alto transito.", "icono": "pisos", "px": 100, "py": -50 }
+          ],
+          "conexiones": [
+            { "destino_id": "Cocina", "px": -150.0, "py": -20.0 }
+          ]
+        },
+        {
+          "nombre_nodo": "Cocina",
+          "archivo_360": "Casa_001/Cocina",
+          "x": 120,
+          "y": -80,
+          "popups": [
+            { "titulo": "Griferia", "info": "Sistema monocomando con filtro de agua.", "icono": "agua", "px": 50, "py": 20 }
+          ],
+          "conexiones": [
+            { "destino_id": "Living", "px": 90.0, "py": 0.0 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Casa_002",
+      "nombre": "Casa en Yerba Buena",
+      "thumbnail": "Casa_002",
+      "mapa_archivo": "Mapa_Casa_002",
+      "puntos": [
+        {
+          "nombre_nodo": "Living",
+          "archivo_360": "Casa_002/Living",
+          "x": -50,
+          "y": 50,
+          "popups": [
+            { "titulo": "Tablero", "info": "Instalacion embutida para aire.", "icono": "electricidad", "px": 150, "py": 100 }
+          ]
+        },
+        {
+          "nombre_nodo": "Dormitorio",
+          "archivo_360": "Casa_002/Dormitorio",
+          "x": -100,
+          "y": -50,
+          "popups": [
+            { "titulo": "Placard", "info": "Interiores de placard en melamina.", "icono": "muebles", "px": -100, "py": 0 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Casa_003",
+      "nombre": "Departamento San Ceferino",
+      "thumbnail": "Casa_003",
+      "mapa_archivo": "Mapa_Casa_003",
+      "puntos": [
+        {
+          "nombre_nodo": "Principal",
+          "archivo_360": "Casa_003/Principal",
+          "x": 0,
+          "y": 0,
+          "popups": [
+            { "titulo": "InstalacionGas", "info": "Caldera dual instalada.", "icono": "gas", "px": 200, "py": -100 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Casa_004",
+      "nombre": "Casa en Barrio Sur",
+      "thumbnail": "Casa_004",
+      "mapa_archivo": "Mapa_Casa_004",
+      "puntos": [
+        {
+          "nombre_nodo": "Principal",
+          "archivo_360": "Casa_004/Principal",
+          "x": 0,
+          "y": 0,
+          "popups": [
+            { "titulo": "Iluminacion", "info": "Tablero con llaves termicas Sica.", "icono": "electricidad", "px": -150, "py": 150 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Casa_005",
+      "nombre": "Duplex Avenida",
+      "thumbnail": "Casa_005",
+      "mapa_archivo": "Mapa_Casa_005",
+      "puntos": [
+        {
+          "nombre_nodo": "Principal",
+          "archivo_360": "Casa_005/Principal",
+          "x": 0,
+          "y": 0,
+          "popups": [
+            { "titulo": "Revestimientos", "info": "Piso flotante de 8mm.", "icono": "piso", "px": 0, "py": -200 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Casa_006",
+      "nombre": "Residencial El Bosque",
+      "thumbnail": "Casa_006",
+      "mapa_archivo": "Mapa_Casa_006",
+      "puntos": [
+        {
+          "nombre_nodo": "Principal",
+          "archivo_360": "Casa_006/Principal",
+          "x": 0,
+          "y": 0,
+          "popups": [
+            { "titulo": "Almacenaje", "info": "Muebles de cocina a medida.", "icono": "muebles", "px": 180, "py": 50 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Casa_007",
+      "nombre": "Oficinas Centro",
+      "thumbnail": "Casa_007",
+      "mapa_archivo": "Mapa_Casa_007",
+      "puntos": [
+        {
+          "nombre_nodo": "Principal",
+          "archivo_360": "Casa_007/Principal",
+          "x": 0,
+          "y": 0,
+          "popups": [
+            { "titulo": "Red de Agua", "info": "Tanque de reserva independiente.", "icono": "agua", "px": -250, "py": 0 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Casa_008",
+      "nombre": "Chalet La Linda",
+      "thumbnail": "Casa_008",
+      "mapa_archivo": "Mapa_Casa_008",
+      "puntos": [
+        {
+          "nombre_nodo": "Principal",
+          "archivo_360": "Casa_008/Principal",
+          "x": 0,
+          "y": 0,
+          "popups": [
+            { "titulo": "Gas Natural", "info": "Instalacion aprobada por Gasnor.", "icono": "gas", "px": 0, "py": 250 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Casa_009",
+      "nombre": "Quinta Lules",
+      "thumbnail": "Casa_009",
+      "mapa_archivo": "Mapa_Casa_009",
+      "puntos": [
+        {
+          "nombre_nodo": "Principal",
+          "archivo_360": "Casa_009/Principal",
+          "x": 0,
+          "y": 0,
+          "popups": [
+            { "titulo": "Electricidad", "info": "Instalacion para grupo electrogeno.", "icono": "electricidad", "px": -100, "py": -150 }
+          ]
+        }
+      ]
+    }
+  ]
+}
