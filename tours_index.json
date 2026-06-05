@@ -8,7 +8,7 @@
       "puntos": [
         {
           "nombre_nodo": "Living",
-          "archivo_360": "Casa_001/Living",
+          "archivo_360": "Casa_991/Living",
           "x": -150,
           "y": 50,
           "popups": [
@@ -20,7 +20,7 @@
         },
         {
           "nombre_nodo": "Cocina",
-          "archivo_360": "Casa_001/Cocina",
+          "archivo_360": "Casa_991/Cocina",
           "x": 120,
           "y": -80,
           "popups": [
@@ -40,7 +40,7 @@
       "puntos": [
         {
           "nombre_nodo": "Living",
-          "archivo_360": "Casa_002/Living",
+          "archivo_360": "Casa_992/Living",
           "x": -50,
           "y": 50,
           "popups": [
@@ -49,7 +49,7 @@
         },
         {
           "nombre_nodo": "Dormitorio",
-          "archivo_360": "Casa_002/Dormitorio",
+          "archivo_360": "Casa_992/Dormitorio",
           "x": -100,
           "y": -50,
           "popups": [
@@ -66,7 +66,7 @@
       "puntos": [
         {
           "nombre_nodo": "Principal",
-          "archivo_360": "Casa_003/Principal",
+          "archivo_360": "Casa_993/Principal",
           "x": 0,
           "y": 0,
           "popups": [
@@ -83,7 +83,7 @@
       "puntos": [
         {
           "nombre_nodo": "Principal",
-          "archivo_360": "Casa_004/Principal",
+          "archivo_360": "Casa_994/Principal",
           "x": 0,
           "y": 0,
           "popups": [
@@ -100,7 +100,7 @@
       "puntos": [
         {
           "nombre_nodo": "Principal",
-          "archivo_360": "Casa_005/Principal",
+          "archivo_360": "Casa_995/Principal",
           "x": 0,
           "y": 0,
           "popups": [
@@ -117,7 +117,7 @@
       "puntos": [
         {
           "nombre_nodo": "Principal",
-          "archivo_360": "Casa_006/Principal",
+          "archivo_360": "Casa_996/Principal",
           "x": 0,
           "y": 0,
           "popups": [
@@ -134,7 +134,7 @@
       "puntos": [
         {
           "nombre_nodo": "Principal",
-          "archivo_360": "Casa_007/Principal",
+          "archivo_360": "Casa_997/Principal",
           "x": 0,
           "y": 0,
           "popups": [
@@ -151,7 +151,7 @@
       "puntos": [
         {
           "nombre_nodo": "Principal",
-          "archivo_360": "Casa_008/Principal",
+          "archivo_360": "Casa_998/Principal",
           "x": 0,
           "y": 0,
           "popups": [
@@ -168,7 +168,7 @@
       "puntos": [
         {
           "nombre_nodo": "Principal",
-          "archivo_360": "Casa_009/Principal",
+          "archivo_360": "Casa_999/Principal",
           "x": 0,
           "y": 0,
           "popups": [
