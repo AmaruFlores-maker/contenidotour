@@ -5,6 +5,7 @@
       "nombre": "Casa en Barrio Norte",
       "thumbnail": "Casa_991",
       "mapa_archivo": "Mapa_Casa_991",
+      "maps_url": "https://maps.google.com/?q=Ubicacion_Ficticia_Casa_991",
       "puntos": [
         {
           "nombre_nodo": "Living",
@@ -37,6 +38,7 @@
       "nombre": "Casa en Yerba Buena",
       "thumbnail": "Casa_992",
       "mapa_archivo": "Mapa_Casa_992",
+      "maps_url": "https://maps.google.com/?q=Ubicacion_Ficticia_Casa_992",
       "puntos": [
         {
           "nombre_nodo": "Living",
@@ -63,6 +65,7 @@
       "nombre": "Departamento San Ceferino",
       "thumbnail": "Casa_993",
       "mapa_archivo": "Mapa_Casa_993",
+      "maps_url": "https://maps.google.com/?q=Ubicacion_Ficticia_Casa_993",
       "puntos": [
         {
           "nombre_nodo": "Principal",
@@ -80,6 +83,7 @@
       "nombre": "Casa en Barrio Sur",
       "thumbnail": "Casa_994",
       "mapa_archivo": "Mapa_Casa_994",
+      "maps_url": "https://maps.google.com/?q=Ubicacion_Ficticia_Casa_994",
       "puntos": [
         {
           "nombre_nodo": "Principal",
@@ -97,6 +101,7 @@
       "nombre": "Duplex Avenida",
       "thumbnail": "Casa_995",
       "mapa_archivo": "Mapa_Casa_995",
+      "maps_url": "https://maps.google.com/?q=Ubicacion_Ficticia_Casa_995",
       "puntos": [
         {
           "nombre_nodo": "Principal",
@@ -114,6 +119,7 @@
       "nombre": "Residencial El Bosque",
       "thumbnail": "Casa_996",
       "mapa_archivo": "Mapa_Casa_996",
+      "maps_url": "https://maps.google.com/?q=Ubicacion_Ficticia_Casa_996",
       "puntos": [
         {
           "nombre_nodo": "Principal",
@@ -131,6 +137,7 @@
       "nombre": "Oficinas Centro",
       "thumbnail": "Casa_997",
       "mapa_archivo": "Mapa_Casa_997",
+      "maps_url": "https://maps.google.com/?q=Ubicacion_Ficticia_Casa_997",
       "puntos": [
         {
           "nombre_nodo": "Principal",
@@ -146,8 +153,9 @@
     {
       "id": "Casa_998",
       "nombre": "Chalet La Linda",
-      "thumbnail": "Casa_998",
+      "thumbnail": "Chalet La Linda",
       "mapa_archivo": "Mapa_Casa_998",
+      "maps_url": "https://maps.google.com/?q=Ubicacion_Ficticia_Casa_998",
       "puntos": [
         {
           "nombre_nodo": "Principal",
@@ -165,6 +173,7 @@
       "nombre": "Quinta Lules",
       "thumbnail": "Casa_999",
       "mapa_archivo": "Mapa_Casa_999",
+      "maps_url": "https://maps.google.com/?q=Ubicacion_Ficticia_Casa_999",
       "puntos": [
         {
           "nombre_nodo": "Principal",
