@@ -2,6 +2,7 @@
   "tours": [
     {
       "id": "Casa_991",
+      "categoria": "Inmuebles",
       "nombre": "Casa en Barrio Norte",
       "thumbnail": "Casa_991",
       "mapa_archivo": "Mapa_Casa_991",
@@ -35,6 +36,7 @@
     },
     {
       "id": "Casa_992",
+      "categoria": "Inmuebles",
       "nombre": "Casa en Yerba Buena",
       "thumbnail": "Casa_992",
       "mapa_archivo": "Mapa_Casa_992",
@@ -62,6 +64,7 @@
     },
     {
       "id": "Casa_993",
+      "categoria": "Inmuebles",
       "nombre": "Departamento San Ceferino",
       "thumbnail": "Casa_993",
       "mapa_archivo": "Mapa_Casa_993",
@@ -80,6 +83,7 @@
     },
     {
       "id": "Casa_994",
+      "categoria": "Inmuebles",
       "nombre": "Casa en Barrio Sur",
       "thumbnail": "Casa_994",
       "mapa_archivo": "Mapa_Casa_994",
@@ -98,6 +102,7 @@
     },
     {
       "id": "Casa_995",
+      "categoria": "Inmuebles",
       "nombre": "Duplex Avenida",
       "thumbnail": "Casa_995",
       "mapa_archivo": "Mapa_Casa_995",
@@ -116,6 +121,7 @@
     },
     {
       "id": "Casa_996",
+      "categoria": "Inmuebles",
       "nombre": "Residencial El Bosque",
       "thumbnail": "Casa_996",
       "mapa_archivo": "Mapa_Casa_996",
@@ -134,6 +140,7 @@
     },
     {
       "id": "Casa_997",
+      "categoria": "Inmuebles",
       "nombre": "Oficinas Centro",
       "thumbnail": "Casa_997",
       "mapa_archivo": "Mapa_Casa_997",
@@ -152,6 +159,7 @@
     },
     {
       "id": "Casa_998",
+      "categoria": "Inmuebles",
       "nombre": "Chalet La Linda",
       "thumbnail": "Casa_998",
       "mapa_archivo": "Mapa_Casa_998",
@@ -170,6 +178,7 @@
     },
     {
       "id": "Casa_999",
+      "categoria": "Inmuebles",
       "nombre": "Quinta Lules",
       "thumbnail": "Casa_999",
       "mapa_archivo": "Mapa_Casa_999",
@@ -182,6 +191,44 @@
           "y": 0,
           "popups": [
             { "titulo": "Electricidad", "info": "Instalacion para grupo electrogeno.", "icono": "electricidad", "px": -100, "py": -150 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Chatarra_001",
+      "categoria": "Chatarra",
+      "nombre": "Lote Cobre Pesado",
+      "thumbnail": "Chatarra_001",
+      "mapa_archivo": "Mapa_Chatarra_001",
+      "maps_url": "https://maps.google.com/?q=Ubicacion_Chatarra_001",
+      "puntos": [
+        {
+          "nombre_nodo": "Galpon",
+          "archivo_360": "Chatarra_001/Galpon",
+          "x": 0,
+          "y": 0,
+          "popups": [
+            { "titulo": "CalidadCobre", "info": "Cable de cobre limpio seleccionado.", "icono": "metal", "px": 120, "py": -30 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Vehiculo_001",
+      "categoria": "Vehiculos",
+      "nombre": "Camioneta 4x4 Hilux",
+      "thumbnail": "Vehiculo_001",
+      "mapa_archivo": "Mapa_Vehiculo_001",
+      "maps_url": "https://maps.google.com/?q=Ubicacion_Vehiculo_001",
+      "puntos": [
+        {
+          "nombre_nodo": "Interior",
+          "archivo_360": "Vehiculo_001/Interior",
+          "x": 0,
+          "y": 0,
+          "popups": [
+            { "titulo": "TableroDigital", "info": "Pantalla multimedia de 9 polegadas.", "icono": "tecnologia", "px": 80, "py": 10 }
           ]
         }
       ]
